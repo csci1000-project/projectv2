@@ -29,7 +29,22 @@ export default function Home() {
 
           <a href='/SeanBroderick ' className='card'>
             <h3>About Me Page For Sean Broderick &rarr;</h3>
-            <p>Click here to navigate</p>
+            <p>Click here to navigate to an example page</p>
+          </a>
+          
+          <a href='/LandonCarpenter ' className='card'>
+            <h3>About Me Page For Landon Carpenter &rarr;</h3>
+            <p>Click here to navigate to Landon's about me page</p>
+          </a>
+
+          <a href='/EthanCuthrell ' className='card'>
+            <h3>Ethan Cuthrell About Me Page &rarr;</h3>
+            <p>Click here to navigate to Ethan's about me page</p>
+          </a>
+
+          <a href='/AbeneazerGetachew ' className='card'>
+            <h3> Headed to Abeneazer Getachew &rarr;</h3>
+            <p> Here </p>
           </a>
 
           <a
